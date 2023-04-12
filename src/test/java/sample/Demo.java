@@ -13,6 +13,12 @@ public class Demo {
 	 public void samp()
 	 {
 		 System.out.println("Hi");
+	 }		
+	 
+	 @Test
+	 public void drag()
+	 {
+		 System.out.println("it is dragged");
 	 }
 
 }
