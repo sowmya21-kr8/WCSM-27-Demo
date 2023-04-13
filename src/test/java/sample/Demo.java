@@ -19,6 +19,7 @@ public class Demo {
 	 public void drag()
 	 {
 		 System.out.println("it is dragged");
+		 System.out.println(" done");
 	 }
 
 }
